@@ -4,7 +4,7 @@ Uma Landing Page moderna e responsiva desenvolvida como parte dos meus estudos e
 
 ## Demonstração
 Você pode visualizar o projeto online através do link abaixo:
-👉 [Acesse aqui o HTML na Prática](https://gabrielerigobeli.github.io/html-na-pratica/)
+👉 [Acesse aqui o HTML na Prática](http://127.0.0.1:5500/index.html)
 
 ## Tecnologias Utilizadas
 * **HTML5**: Estruturação semântica do conteúdo.
